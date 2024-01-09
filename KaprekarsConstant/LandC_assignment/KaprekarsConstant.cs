@@ -8,7 +8,7 @@ namespace LandC_assignment
 {
     public class KaprekarRoutine
     {
-        public static int KaprekarFormula(int number)
+        public static int KaprekarStep(int number)
         {
             int[] digits = number.ToString().Select(c => c - '0').ToArray();
 
@@ -20,14 +20,14 @@ namespace LandC_assignment
             return result;
         }
 
-        public static int PerformKaprekarFunction(int startingNumber)
+        public static int PerformKaprekarRoutine(int startingNumber)
         {
             int iterations = 0;
             int currentNumber = startingNumber;
 
             while (currentNumber != 6174)
             {
-                currentNumber = KaprekarFormula(currentNumber);
+                currentNumber = KaprekarStep(currentNumber);
                 iterations++;
 
                 if (iterations > 7)

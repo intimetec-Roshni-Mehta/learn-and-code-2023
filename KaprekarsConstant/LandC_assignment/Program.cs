@@ -10,7 +10,7 @@ public class Program
         {
             try
             {
-                int iterations = KaprekarsConstant.PerformKaprekarFunction(userNumber);
+                int iterations = KaprekarRoutine.PerformKaprekarRoutine(userNumber);
                 Console.WriteLine($"For the number {userNumber}, Kaprekar's constants converged to 6174 in {iterations} iterations.");
             }
             catch (InvalidOperationException ex)

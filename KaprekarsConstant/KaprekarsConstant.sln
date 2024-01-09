@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandC_assignment", "LandC_assignment\LandC_assignment.csproj", "{BA010B08-EC85-444A-B188-A363CCC17F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KprConstUnitTest", "KprConstUnitTest\KprConstUnitTest.csproj", "{D1F9630F-3D99-47F5-9777-0F6667DE18C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA010B08-EC85-444A-B188-A363CCC17F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA010B08-EC85-444A-B188-A363CCC17F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA010B08-EC85-444A-B188-A363CCC17F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA010B08-EC85-444A-B188-A363CCC17F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F9630F-3D99-47F5-9777-0F6667DE18C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F9630F-3D99-47F5-9777-0F6667DE18C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F9630F-3D99-47F5-9777-0F6667DE18C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F9630F-3D99-47F5-9777-0F6667DE18C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1703FCE9-0FCB-4000-A20D-A8F15B13C8B0}
+	EndGlobalSection
+EndGlobal

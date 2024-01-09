@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn and code\\KaprekarsConstant\\LandC_assignment\\LandC_assignment.csproj",
+      "projectUniqueName": "C:\\Users\\roshni.mehta.INTIMETEC\\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\\Desktop\\GITHUB\\learn-and-code-2023\\KaprekarsConstant\\LandC_assignment\\LandC_assignment.csproj",
       "projectName": "LandC_assignment",
-      "projectPath": "D:\\learn and code\\KaprekarsConstant\\LandC_assignment\\LandC_assignment.csproj",
+      "projectPath": "C:\\Users\\roshni.mehta.INTIMETEC\\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\\Desktop\\GITHUB\\learn-and-code-2023\\KaprekarsConstant\\LandC_assignment\\LandC_assignment.csproj",
       "packagesPath": "C:\\Users\\roshni.mehta.INTIMETEC\\.nuget\\packages\\",
-      "outputPath": "D:\\learn and code\\KaprekarsConstant\\LandC_assignment\\obj\\",
+      "outputPath": "C:\\Users\\roshni.mehta.INTIMETEC\\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\\Desktop\\GITHUB\\learn-and-code-2023\\KaprekarsConstant\\LandC_assignment\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\roshni.mehta.INTIMETEC\\AppData\\Roaming\\NuGet\\NuGet.Config",

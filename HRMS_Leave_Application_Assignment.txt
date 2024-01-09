@@ -1,0 +1,15 @@
+Class:Employee:
+Properties: name, employeeID, Designation
+Methods: applyForLeave(), checkLeaveStatus()
+
+Class: LeaveApplication:
+Properties: startDate, endDate, status
+Methods: getStatus(), setStatus()
+
+Class: HRManager:
+Properties: name, responsibilities
+Methods: reviewLeaveApplication(), approveLeaveApplication(), rejectLeaveApplication()
+
+Class: ProjectManager:
+Properties: name, projectDetails
+Methods: checkProjectDeliverables()
